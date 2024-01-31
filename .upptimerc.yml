@@ -7,6 +7,7 @@ sites:
 
 status-website:
   theme: light
+  css: "nav { display: none }"
   favicon: https://raw.githubusercontent.com/roozbehzarei/filester-status/master/assets/favicon.png
   faviconSvg: https://raw.githubusercontent.com/roozbehzarei/filester-status/1262fc8402b1541603097532c99ff9dbdcc2ffa7/assets/favicon.svg
   baseUrl: /filester-status
