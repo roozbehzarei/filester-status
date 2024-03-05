@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transfer.sh.ico",
     "slug": "transfer-sh",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.90%",
+    "uptimeDay": "58.00%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.90%",
     "time": 440,
-    "timeDay": 469,
-    "timeWeek": 478,
-    "timeMonth": 436,
+    "timeDay": 0,
+    "timeWeek": 493,
+    "timeMonth": 437,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2024-03-04": 0
+      "2024-03-05": 76,
+      "2024-03-04": 529
     }
   }
 ]
