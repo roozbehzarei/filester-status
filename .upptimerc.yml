@@ -4,8 +4,6 @@ repo: filester-status
 sites:
   - name: Oshi
     url: https://oshi.at
-  - name: transfer.sh
-    url: https://transfer.sh
 
 status-website:
   theme: light
