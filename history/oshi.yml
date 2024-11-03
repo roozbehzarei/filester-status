@@ -1,7 +1,7 @@
 url: https://oshi.at
-status: up
-code: 200
-responseTime: 1489
-lastUpdated: 2024-11-03T17:43:57.443Z
+status: down
+code: 503
+responseTime: 416
+lastUpdated: 2024-11-03T21:16:22.803Z
 startTime: 2024-04-09T14:23:19.933Z
 generator: Upptime <https://github.com/upptime/upptime>
