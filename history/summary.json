@@ -4,7 +4,7 @@
     "url": "https://oshi.at",
     "icon": "https://icons.duckduckgo.com/ip3/oshi.at.ico",
     "slug": "oshi",
-    "status": "up",
+    "status": "down",
     "uptime": "96.95%",
     "uptimeDay": "92.58%",
     "uptimeWeek": "97.31%",
@@ -16,6 +16,7 @@
     "timeMonth": 2701,
     "timeYear": 2592,
     "dailyMinutesDown": {
+      "2024-12-06": 0,
       "2024-12-05": 108,
       "2024-12-04": 49,
       "2024-12-03": 117,
