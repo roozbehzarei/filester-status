@@ -3,7 +3,7 @@ repo: filester-status
 
 sites:
   - name: Oshi
-    url: https://oshi.at
+    url: https://oshi.ec
 
 status-website:
   theme: light
