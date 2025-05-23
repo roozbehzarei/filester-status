@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/litterbox.catbox.moe.ico",
     "slug": "catbox-litterbox",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "5.18%",
+    "uptimeDay": "5.18%",
+    "uptimeWeek": "5.18%",
+    "uptimeMonth": "5.18%",
+    "uptimeYear": "5.18%",
     "time": 484,
     "timeDay": 484,
     "timeWeek": 484,
     "timeMonth": 484,
     "timeYear": 484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-23": 0
+    }
   }
 ]
