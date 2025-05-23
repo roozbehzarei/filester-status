@@ -2,8 +2,8 @@ owner: roozbehzarei
 repo: filester-status
 
 sites:
-  - name: Oshi
-    url: https://oshi.ec
+  - name: Catbox Litterbox
+    url: https://litterbox.catbox.moe/resources/internals/api.php
 
 status-website:
   theme: light
