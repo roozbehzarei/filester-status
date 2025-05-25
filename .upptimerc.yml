@@ -3,7 +3,7 @@ repo: filester-status
 
 sites:
   - name: Catbox Litterbox
-    url: https://litterbox.catbox.moe/resources/internals/api.php
+    url: https://litterbox.catbox.moe
 
 status-website:
   theme: light
