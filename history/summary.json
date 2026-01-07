@@ -4,18 +4,19 @@
     "url": "https://litterbox.catbox.moe",
     "icon": "https://icons.duckduckgo.com/ip3/litterbox.catbox.moe.ico",
     "slug": "catbox-litterbox",
-    "status": "down",
+    "status": "up",
     "uptime": "97.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.06%",
-    "uptimeMonth": "90.63%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "84.87%",
+    "uptimeMonth": "90.58%",
     "uptimeYear": "97.05%",
-    "time": 2960,
-    "timeDay": 245,
-    "timeWeek": 8714,
-    "timeMonth": 12002,
-    "timeYear": 2960,
+    "time": 2954,
+    "timeDay": 264,
+    "timeWeek": 7947,
+    "timeMonth": 11813,
+    "timeYear": 2954,
     "dailyMinutesDown": {
+      "2026-01-07": 20,
       "2026-01-03": 1428,
       "2026-01-02": 77,
       "2025-12-30": 332,
@@ -59,7 +60,7 @@
       "2025-08-14": 17,
       "2025-08-13": 142,
       "2025-08-12": 16,
-      "2025-08-10": 114
+      "2025-08-10": 72
     }
   }
 ]
