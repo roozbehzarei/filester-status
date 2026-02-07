@@ -6,9 +6,9 @@
     "slug": "catbox-litterbox",
     "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "97.34%",
     "time": 2766,
     "timeDay": 487,
@@ -16,7 +16,6 @@
     "timeMonth": 745,
     "timeYear": 2766,
     "dailyMinutesDown": {
-      "2026-02-06": 6,
       "2026-02-03": 62,
       "2026-01-29": 32,
       "2026-01-27": 15,
@@ -64,7 +63,7 @@
       "2025-08-16": 81,
       "2025-08-15": 53,
       "2025-08-14": 17,
-      "2025-08-13": 93
+      "2025-08-13": 115
     }
   }
 ]
