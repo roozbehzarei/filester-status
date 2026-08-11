@@ -4,7 +4,7 @@
     "url": "https://litterbox.catbox.moe",
     "icon": "https://icons.duckduckgo.com/ip3/litterbox.catbox.moe.ico",
     "slug": "catbox-litterbox",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 49130,
     "timeWeek": 7400,
     "timeMonth": 4583,
-    "timeYear": 3099,
+    "timeYear": 3104,
     "dailyMinutesDown": {
       "2025-09-02": 135,
       "2025-09-10": 113,
